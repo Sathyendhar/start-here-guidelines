@@ -10,6 +10,8 @@
 
 - [@Sylphritz](https://github.com/Sylphritz)
 
+- [@Sathyendhar](https://github.com/Sathyendhar)
+
 - [@Hemant](https://github.com/Hmaske88)
 
 - [@batukeshwar](https://github.com/BatukeshwarVats)
